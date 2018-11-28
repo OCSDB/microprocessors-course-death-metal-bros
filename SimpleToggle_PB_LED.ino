@@ -31,4 +31,4 @@ lastSWITCHstate = SWITCHstate;
 }
 
 // Making LEDstate = LOW didn't do it
-// Making lastSWITCHstate = LOW and SWITCHstate = high didn't change it either
+// Making lastSWITCHstate = LOW and SWITCHstate = high didn't change it either 
